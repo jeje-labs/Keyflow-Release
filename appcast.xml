@@ -7,15 +7,15 @@
     <language>en</language>
 
     <item>
-      <title>fns v1.2.3</title>
-      <sparkle:version>108</sparkle:version>
-      <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+      <title>fns v1.2.4</title>
+      <sparkle:version>110</sparkle:version>
+      <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Thu, 07 May 2026 16:48:27 +0900</pubDate>
+      <pubDate>Sun, 10 May 2026 22:20:03 +0900</pubDate>
       <enclosure
-        url="https://github.com/jeje-labs/fns-Release/releases/download/v1.2.3/fns.dmg"
-        sparkle:edSignature="oXROPIDXy+6+ejyzDVDtkGUEq0fjLuToL9R9pJuBceFc1D8VrJnwhEXGXKuiF2gV8Ec19v1djyeMXOul5T6bDQ=="
-        length="16953471"
+        url="https://github.com/jeje-labs/fns-Release/releases/download/v1.2.4/fns.dmg"
+        sparkle:edSignature="c6TOBoxRjknXlF+V+vaJQe0h3L/ejzTFg/JvCR27ze5j4hPARBX1K9uBgkWazreLDvsL5HP7AHPKYpyC/hpeCg=="
+        length="17545774"
         type="application/octet-stream" />
     </item>
 
